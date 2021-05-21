@@ -1,0 +1,15 @@
+﻿  OpenGL.cpp
+D:\1VsProjects\OpenGL -- LearnOpenGL\OpenGL\OpenGL\src\OpenGL.cpp(235,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\1VsProjects\OpenGL -- LearnOpenGL\OpenGL\OpenGL\src\OpenGL.cpp(245,49): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\1VsProjects\OpenGL -- LearnOpenGL\OpenGL\OpenGL\src\OpenGL.cpp(332,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\1VsProjects\OpenGL -- LearnOpenGL\OpenGL\OpenGL\src\OpenGL.cpp(333,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\1VsProjects\OpenGL -- LearnOpenGL\OpenGL\OpenGL\src\OpenGL.cpp(337,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\1VsProjects\OpenGL -- LearnOpenGL\OpenGL\OpenGL\src\OpenGL.cpp(338,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\1VsProjects\OpenGL -- LearnOpenGL\OpenGL\OpenGL\src\OpenGL.cpp(340,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\1VsProjects\OpenGL -- LearnOpenGL\OpenGL\OpenGL\src\OpenGL.cpp(341,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\1VsProjects\OpenGL -- LearnOpenGL\OpenGL\OpenGL\src\OpenGL.cpp(348,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  OpenGL.vcxproj -> D:\1VsProjects\OpenGL -- LearnOpenGL\OpenGL\x64\Debug\OpenGL.exe
